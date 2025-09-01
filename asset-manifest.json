@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/skk-travels/static/css/main.f855e6bc.css",
-    "main.js": "/skk-travels/static/js/main.3cd7b535.js",
+    "main.js": "/skk-travels/static/js/main.e8822c17.js",
     "static/js/453.ef4a4329.chunk.js": "/skk-travels/static/js/453.ef4a4329.chunk.js",
-    "static/media/logo.svg": "/skk-travels/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/image.png": "/skk-travels/static/media/image.872ad65f3d5bef20f58b.png",
     "index.html": "/skk-travels/index.html",
     "main.f855e6bc.css.map": "/skk-travels/static/css/main.f855e6bc.css.map",
-    "main.3cd7b535.js.map": "/skk-travels/static/js/main.3cd7b535.js.map",
+    "main.e8822c17.js.map": "/skk-travels/static/js/main.e8822c17.js.map",
     "453.ef4a4329.chunk.js.map": "/skk-travels/static/js/453.ef4a4329.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3cd7b535.js"
+    "static/js/main.e8822c17.js"
   ]
 }
