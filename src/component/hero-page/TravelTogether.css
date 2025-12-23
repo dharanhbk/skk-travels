@@ -1,0 +1,98 @@
+.travel-hero {
+  position: relative;
+  height: 85vh;
+  background: url("/public/image.png") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  padding: 0 80px;
+}
+
+/* Dark overlay */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+/* Content */
+.hero-content {
+  position: relative;
+  max-width: 650px;
+  color: white;
+  z-index: 2;
+}
+
+.hero-content h1 {
+  font-size: 46px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 18px;
+}
+
+.hero-content h1 span {
+  color: #f97316;
+}
+
+.hero-content p {
+  font-size: 18px;
+  opacity: 0.95;
+  margin-bottom: 32px;
+}
+
+/* Actions */
+.hero-actions {
+  display: flex;
+  gap: 16px;
+}
+
+.hero-call,
+.hero-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 22px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+}
+
+.hero-call {
+  background: #1f2937;
+}
+
+.hero-whatsapp {
+  background: #16a34a;
+}
+
+.hero-call:hover {
+  background: #111827;
+}
+
+.hero-whatsapp:hover {
+  background: #15803d;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .travel-hero {
+    height: 90vh;
+    padding: 0 24px;
+  }
+
+  .hero-content h1 {
+    font-size: 34px;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero-call,
+  .hero-whatsapp {
+    justify-content: center;
+    width: 100%;
+  }
+}
