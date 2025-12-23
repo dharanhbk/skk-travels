@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/skk-travels/static/css/main.f84b44cb.css",
-    "main.js": "/skk-travels/static/js/main.8c4833e2.js",
+    "main.css": "/skk-travels/static/css/main.bc02feb2.css",
+    "main.js": "/skk-travels/static/js/main.0a4df7f5.js",
     "static/js/453.ef4a4329.chunk.js": "/skk-travels/static/js/453.ef4a4329.chunk.js",
     "static/media/cta-bg.png": "/skk-travels/static/media/cta-bg.40f27a5ee3cfa428a4a1.png",
-    "static/media/about-us.png": "/skk-travels/static/media/about-us.a13895f607b6f25ae45a.png",
-    "static/media/image.png": "/skk-travels/static/media/image.a13895f607b6f25ae45a.png",
+    "static/media/hero.png": "/skk-travels/static/media/hero.e11ab0e2d92c9a563279.png",
+    "static/media/about-us.png": "/skk-travels/static/media/about-us.155fa5f892be68284f25.png",
     "static/media/family-trip.png": "/skk-travels/static/media/family-trip.e5babf80cfe3266c3060.png",
     "static/media/wedding-travel.png": "/skk-travels/static/media/wedding-travel.0c915bf851010f779266.png",
     "static/media/corporate-outing.png": "/skk-travels/static/media/corporate-outing.d482960cdd7fed48551d.png",
     "static/media/temple-tour.png": "/skk-travels/static/media/temple-tour.29293fce2df41ed62954.png",
     "static/media/logo.png": "/skk-travels/static/media/logo.b84474736597d329ecf3.png",
     "index.html": "/skk-travels/index.html",
-    "main.f84b44cb.css.map": "/skk-travels/static/css/main.f84b44cb.css.map",
-    "main.8c4833e2.js.map": "/skk-travels/static/js/main.8c4833e2.js.map",
+    "main.bc02feb2.css.map": "/skk-travels/static/css/main.bc02feb2.css.map",
+    "main.0a4df7f5.js.map": "/skk-travels/static/js/main.0a4df7f5.js.map",
     "453.ef4a4329.chunk.js.map": "/skk-travels/static/js/453.ef4a4329.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f84b44cb.css",
-    "static/js/main.8c4833e2.js"
+    "static/css/main.bc02feb2.css",
+    "static/js/main.0a4df7f5.js"
   ]
 }
